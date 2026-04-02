@@ -1,0 +1,1 @@
+{\n  "name": "life-path-rpg",\n  "version": "1.0.0",\n  "description": "A multiplayer RPG where real-life choices impact character stats.",\n  "main": "server.js",\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongoose": "^5.10.9"\n  },\n  "scripts": {\n    "start": "node server.js"\n  },\n  "author": "jonathanglenn92-code",\n  "license": "MIT"\n}
